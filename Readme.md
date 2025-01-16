@@ -40,7 +40,7 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning capaz d
 1. **Requisitos:** Requirements.txt: ([text](../../requirements.txt))
 2. **Clonagem do Repositório:**
  ```bash
-   git clone:
+   git clone:https://github.com/oMarcelosantos/Previsao-IA.git
 
 
 
